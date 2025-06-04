@@ -20,7 +20,7 @@
     
 }
 .logo{
-    background-image: url("/amazon/img/amalogo.png");
+    background-image: url("img/amalogo.png");
     background-size:cover;
     height: 50px;
     width: 100%;
@@ -124,7 +124,7 @@ align-items: center;
 }
 /* hero-section */
 .hero-section{
-    background-image: url("/amazon/img/herosec.png");
+    background-image: url("img/herosec.png");
     background-size: cover;
     height: 300px;
     display: flex;
@@ -219,7 +219,7 @@ ul  p{
     align-items: center;
 }
 .footer-log {
-    background-image: url("/amazon/img/amalogo.png");
+    background-image: url("img/amalogo.png");
     background-size:cover;
     height: 50px;
     width: 100px;
