@@ -171,6 +171,10 @@ a:hover{
     margin-bottom: 3rem;
     
 }
+.img:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
 .box-content{
     margin-left: 1rem;
     margin-right: 1rem;
